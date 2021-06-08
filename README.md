@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @DaniellaBrito
 
-👀 I’m interested in learning new programmig languages and Data Analysis.
+👀 I’m interested in learning new programming languages and Data Analysis.
 
 🌱 I’m currently studying Data Science & Analytics.
 
