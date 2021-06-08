@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DaniellaBrito/DaniellaBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👋 Hi, I’m @DaniellaBrito
 
 👀 I’m interested in learning new programmig languages and Data Analysis.
