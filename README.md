@@ -11,4 +11,4 @@
 📫 How to reach me- linkedIn - https://www.linkedin.com/in/daniella-brito-535890121/
 
 🆕 I am learning Deep learning , NLP and Tableau also currently.
--->
+--> Transitioning from past experience as a Software Developer .
