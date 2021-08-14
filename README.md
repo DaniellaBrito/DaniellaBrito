@@ -15,6 +15,9 @@ Have past knowledge in Automotive domain and would like to increase my domain kn
 2. Segmentation 
 3. Forecasting 
 
+
+***Asking the right question is import i will adding a few projects which answer questions from the data given***
+
 💞️ I’m looking for internship oppurtunities and Job opportunities .
 
 📫 How to reach me- linkedIn - https://www.linkedin.com/in/daniella-brito-535890121/
